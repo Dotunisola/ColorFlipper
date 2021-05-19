@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 50px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+.container {
+  text-align: center;
+  font-size: 50px;
+}
